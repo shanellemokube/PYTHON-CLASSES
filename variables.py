@@ -8,6 +8,6 @@ coding_school = "Codingal"
 print(coding_school)
 
 # user input
-name = input("Enter Your Name:   ")
+name = input("Enter Your Name: ")
 
 print("Hello", name, "\nWelcome To Codingal!")
